@@ -1,4 +1,4 @@
-# Panduan Setup Currency Converter ReactJS Pak Agung
+# Panduan Setup Currency Converter ReactJS Pak Agung BCC
 
 Silakan ikuti langkah-langkah berikut untuk menjalankan proyek Currency Converter Anda tanpa kesalahan:
 
